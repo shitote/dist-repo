@@ -1,6 +1,6 @@
-# ML Classification
+## ML Classification
 
-## heart disease prediction
+### heart disease prediction
 
 dataset collected from Kaggle.
 
